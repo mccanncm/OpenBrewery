@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WebService.OpenBrewery/WebService.OpenBrewery/obj/project.assets.json
+/WebService.OpenBrewery/.vs/WebService.OpenBrewery/FileContentIndex
+/WebService.OpenBrewery/WebService.OpenBrewery/obj/Debug/net6.0/WebService.OpenBrewery.assets.cache
+/WebService.OpenBrewery/WebService.OpenBrewery/obj/Debug/net6.0/WebService.OpenBrewery.GeneratedMSBuildEditorConfig.editorconfig
+/WebService.OpenBrewery/WebService.OpenBrewery/obj/project.nuget.cache
+/WebService.OpenBrewery/WebService.OpenBrewery/obj/WebService.OpenBrewery.csproj.nuget.dgspec.json
