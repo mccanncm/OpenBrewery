@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aQHBSN2kA11FavY+IMKixSxceUxkMvvBzTammsW2Q00=",
+  "Source": "WebService.OpenBrewery",
+  "BasePath": "_content/WebService.OpenBrewery",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
